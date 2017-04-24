@@ -4,7 +4,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class LogInPage {
-
+//second commit
+	//After first
 	@FindBy(id="txtUsername")WebElement uid;
 	@FindBy(id="txtPassword")WebElement pwd;
 	@FindBy(id="btnLogin")WebElement login;
